@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <limits.h>
 #include "stat.h"
 
 #define FILENAME_SIZE 100
